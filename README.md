@@ -1,4 +1,4 @@
-## Zeeguu analysis tool
+## Architectural analysis tool
 
 Architectural recovery tool which makes it possible to extract module views from python source code.
 The module views are polymetric:
